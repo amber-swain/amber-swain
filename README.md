@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **a docker and kubernetes lab**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amber-swain](https://github.com/amber-swain)
+- 👨‍💻 All of my projects are available at [https://github.com/amber-swain/Project-Links.git](https://github.com/amber-swain/Project-Links.git)
 
 - 💬 Ask me about **AWS**
 
