@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amber-swain&label=Profile%20views&color=0e75b6&style=flat" alt="amber-swain" /> </p>
 
-- 🔭 I’m currently working on **ServiceNow ticket manager lab**
+- 🔭 I’m currently working on **Active Directory & Powershell Automation Lab: Deploying AD, DHCP, RAS and NAT**
 
 - 🌱 I’m currently learning **linux beyond the basics**
 
